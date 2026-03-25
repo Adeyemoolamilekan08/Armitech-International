@@ -111,9 +111,10 @@ include 'includes/header.php';
 
     <div class="founder-grid">
       <div class="reveal-left">
-        <div class="founder-img-wrap" aria-hidden="true">
-          <i class="fas fa-user-tie"></i>
-        </div>
+      <div class="founder-img-wrap" aria-hidden="true">
+  <!-- <i class="fas fa-user-tie"></i -->
+  <img src="assets/images/amitech.jpeg" alt="Amitech">
+</div>
       </div>
       <div class="reveal-right">
         <div style="font-family:var(--font-mono);font-size:0.75rem;color:var(--accent-cyan);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:8px;">Founder & CEO</div>
